@@ -55,7 +55,7 @@ header .desktop a {
  }
 header .desktop a:hover {
   color: #414141;
-  font-weight:550;
+  font-weight:bold;
   text-decoration: underline solid #627be4;
 }
 /*to remove mobile design from desktop view*/
